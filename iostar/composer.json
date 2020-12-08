@@ -1,0 +1,19 @@
+{
+    "name": "pingang.zhao/iostar",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zhaopingang",
+            "email": "pingang.zhao@concentrix.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "iostar\\":"src"
+        },
+        "files": [
+            "src/Support/Helper.php"
+        ]
+    },
+    "require": {}
+}
